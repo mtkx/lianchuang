@@ -1,4 +1,4 @@
-var flag=false;
+var flag=true;
 function getFlag() {
     return flag;
 }
